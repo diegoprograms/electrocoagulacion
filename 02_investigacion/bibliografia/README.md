@@ -107,9 +107,9 @@ Un artículo relacionado con uno de los **principales contaminantes o parámetro
 
 Un artículo donde puedan identificarse claramente las condiciones utilizadas en el electrocoagulador:
 
-$
+$$
 V,\quad I,\quad J,\quad d,\quad t
-$
+$$
 
 No es obligatorio que los tres artículos correspondan exactamente a esta división si encuentran investigaciones especialmente pertinentes. Lo importante es que los tres aporten información diferente y útil para el proyecto.
 
