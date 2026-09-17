@@ -147,19 +147,19 @@ Identifiquen:
 
 Identifiquen:
 
-$
+$$
 V=\text{voltaje aplicado}
-$
+$$
 
-$
+$$
 I=\text{corriente eléctrica}
-$
+$$
 
 y, cuando esté disponible:
 
-$
+$$
 J=\frac{I}{A}
-$
+$$
 
 donde:
 
@@ -169,15 +169,15 @@ donde:
 
 También registren:
 
-$
+$$
 d=\text{separación entre electrodos}
-$
+$$
 
 y:
 
-$
+$$
 t=\text{tiempo de aplicación del tratamiento}
-$
+$$
 
 ---
 
@@ -247,9 +247,9 @@ Identifiquen el valor inicial y final del contaminante o parámetro analizado.
 
 Cuando sea posible, registren la eficiencia de remoción:
 
-$
+$$
 \eta=\frac{C_i-C_f}{C_i}\times100
-$
+$$
 
 donde:
 
