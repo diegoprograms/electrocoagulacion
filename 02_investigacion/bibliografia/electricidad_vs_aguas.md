@@ -216,15 +216,15 @@ Analicen qué modificaron los investigadores durante sus experimentos.
 
 Por ejemplo, un artículo podría comparar:
 
-$
+$$
 V=3,\;6,\;9,\;12\ V
-$
+$$
 
 Otro podría modificar:
 
-$
+$$
 t=5,\;10,\;20,\;30\ min
-$
+$$
 
 También podrían modificar:
 
