@@ -81,6 +81,7 @@ Antes de comenzar el análisis de un artículo, deberán revisar el **Registro g
 5. Si el artículo no tiene DOI, deberán verificar el título completo.
 6. Si no está registrado, el grupo podrá registrarlo.
 7. El primer grupo que registre correctamente el artículo tendrá su reserva.
+8. Guardar los articulos en: [Carpeta_articulos](https://mailunicundiedu-my.sharepoint.com/:f:/g/personal/dframirezrodriguez_ucundinamarca_edu_co/IgBZWantHwe1RaUWNyYDLQlVAdWImk0PmPixYD0FmD7dkS4?e=3az3H0)
 
 Por lo tanto:
 
