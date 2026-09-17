@@ -61,7 +61,7 @@ Pueden encontrarse parámetros como:
 
 **No deben incluir todos los parámetros de la lista.**
 
-Deben identificar cuáles son realmente pertinentes para el agua estudiada.
+Deben identificar cuáles son realmente pertinentes para el agua estudiada asociada a un electrocoagulador en etapa inicial, el cual vamos a construir.
 
 ---
 
