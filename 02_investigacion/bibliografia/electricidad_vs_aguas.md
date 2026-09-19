@@ -74,7 +74,7 @@ Antes de comenzar el análisis de un artículo, deberán revisar el **Registro g
 ### Regla para evitar artículos repetidos
 
 1. Buscar un posible artículo.
-2. Revisar si aparece en el registro general. [ Abrir registro compartido de artículos]([https://mailunicundiedu-my.sharepoint.com/:x:/g/personal/dframirezrodriguez_ucundinamarca_edu_co/IQCwG3eWX1QpTL-TBoiWHlfoAeUFjJKJBI5V1I51ILnK0ig?e=BIcOYl](https://mailunicundiedu-my.sharepoint.com/:x:/g/personal/dframirezrodriguez_ucundinamarca_edu_co/IQCwG3eWX1QpTL-TBoiWHlfoAe4kQfueCcmPu8QDH7eLiBc?e=XxFDrk))
+2. Revisar si aparece en el registro general. [ Abrir registro compartido de artículos](https://mailunicundiedu-my.sharepoint.com/:x:/g/personal/dframirezrodriguez_ucundinamarca_edu_co/IQCwG3eWX1QpTL-TBoiWHlfoAeUFjJKJBI5V1I51ILnK0ig?e=BIcOYl](https://mailunicundiedu-my.sharepoint.com/:x:/g/personal/dframirezrodriguez_ucundinamarca_edu_co/IQCwG3eWX1QpTL-TBoiWHlfoAe4kQfueCcmPu8QDH7eLiBc?e=XxFDrk))
 
 3. Verificar principalmente el DOI.
 4. Si el DOI ya está registrado, deberán seleccionar otro artículo.
