@@ -14,7 +14,7 @@ Al finalizar la actividad buscamos responder:
 
 ---
 
-# ETAPA 1. Identificación del tipo de agua
+# PASO 1. Identificación del tipo de agua
 
 Cada grupo deberá investigar cómo se clasifican las aguas según su:
 
@@ -41,7 +41,7 @@ Estas categorías son solamente una orientación. Cada grupo deberá determinar 
 
 ---
 
-# ETAPA 2. Identificación de los contaminantes
+# PASO 2. Identificación de los contaminantes
 
 Determinen cuáles son los principales contaminantes o parámetros de calidad asociados con el tipo de agua estudiado.
 
@@ -65,7 +65,7 @@ Deben identificar cuáles son realmente pertinentes para el agua estudiada asoci
 
 ---
 
-# ETAPA 3. Búsqueda y reserva de artículos científicos
+# PASO 3. Búsqueda y reserva de artículos científicos
 
 Cada grupo deberá seleccionar **3 artículos científicos diferentes** relacionados con electrocoagulación.
 
@@ -91,7 +91,7 @@ Si posteriormente se identifica un artículo duplicado, el grupo que lo registr�
 
 ---
 
-# ETAPA 4. Selección de los tres artículos
+# PASO 4. Selección de los tres artículos
 
 Los tres artículos deberán aportar información útil al proyecto.
 
@@ -117,7 +117,7 @@ No es obligatorio que los tres artículos correspondan exactamente a esta divisi
 
 ---
 
-# ETAPA 5. Análisis de los artículos
+# PASO 5. Análisis de los artículos
 
 Los artículos seleccionados serán posteriormente **expuestos en clase**.
 
@@ -183,7 +183,7 @@ $$
 
 ---
 
-# ETAPA 6. No buscar únicamente “el voltaje necesario”
+# PASO 6. No buscar únicamente “el voltaje necesario”
 
 No queremos construir simplemente una tabla que diga:
 
@@ -211,7 +211,7 @@ con la disminución del contaminante.
 
 ---
 
-# ETAPA 7. Identificación del experimento
+# PASO 7. Identificación del experimento
 
 Analicen qué modificaron los investigadores durante sus experimentos.
 
@@ -243,7 +243,7 @@ Identifiquen claramente:
 
 ---
 
-# ETAPA 8. Resultados
+# PASO 8. Resultados
 
 Identifiquen el valor inicial y final del contaminante o parámetro analizado.
 
@@ -264,7 +264,7 @@ Posteriormente determinen:
 
 ---
 
-# ETAPA 9. Registro en la matriz
+# PASO 9. Registro en la matriz
 
 Cada artículo deberá registrarse en la **Matriz de análisis de artículos** suministrada. [Matriz](https://mailunicundiedu-my.sharepoint.com/:x:/g/personal/dframirezrodriguez_ucundinamarca_edu_co/IQBFMUD--HyISqQAfcKFJFUMAWSvaGE1wUiAPD3Y_KUuieE?e=3cZO5u)
 
@@ -280,7 +280,7 @@ No inventen, completen ni supongan información que no aparezca en el artículo.
 
 ---
 
-# ETAPA 10. Análisis propio del grupo
+# PASO 10. Análisis propio del grupo
 
 Para cada artículo deberán responder:
 
@@ -301,7 +301,7 @@ Se trata de utilizarlas para construir nuestra **hipótesis experimental**.
 
 ---
 
-# ETAPA 11. Exposición
+# PASO 11. Exposición
 
 Cada grupo expondrá los artículos investigados.
 
@@ -325,7 +325,7 @@ Queremos conocer:
 
 ---
 
-# ETAPA 12. Construcción colectiva
+# PASO 12. Construcción colectiva
 
 Durante las exposiciones se construirá un resumen con los resultados encontrados por todos los grupos.
 
