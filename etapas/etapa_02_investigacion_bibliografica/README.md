@@ -2,7 +2,7 @@
 
 Actividad trabajada en clase. Pendiente completar la síntesis con los artículos y análisis de los grupos.
 
-- [Guía](electricidad_vs_aguas.md).
+- [Guía](Guia_electricidad_vs_aguas.md).
 - [Referencias consultadas](referencias/README.md).
 - [Aportes de estudiantes](aportes_estudiantes/README.md): Excel y exposiciones.
 - [Síntesis colectiva](SINTESIS_COLECTIVA.md).

@@ -10,7 +10,7 @@ Construimos un solo proyecto entre todos. Cada grupo aporta sus conocimientos e 
 |---|---|---|
 | 01 — Actores y problemática | [Abrir](etapas/etapa_01_actores_y_problematica/README.md) | Actividad trabajada; aportes por consolidar aquí. |
 | 02 — Investigación bibliográfica | [Abrir](etapas/etapa_02_investigacion_bibliografica/README.md) | Actividad trabajada; síntesis colectiva por completar. |
-| 03 — Por definir | [Abrir](etapas/etapa_03/README.md) | Formato preparado, sin actividad asignada. |
+| 03 — Diseño y dimensionamiento del electrocoagulador de flujo continuo | [Abrir](etapas/etapa_03/README.md) | Guía disponible; cálculos y presupuesto para la próxima clase. |
 
 Las nuevas etapas se definen conforme avanzamos. Para crear otra, copiamos la [plantilla de etapa](etapas/plantilla_etapa/README.md), asignamos el siguiente número y añadimos su nombre cuando se acuerde.
 
