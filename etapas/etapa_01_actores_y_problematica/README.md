@@ -1,6 +1,6 @@
 # Etapa 01 — Actores y problemática
 
-Actividad trabajada en clase. Pendiente incorporar y sintetizar los resultados de los grupos.
+Actividad trabajada en clase. Síntesis general y acuerdo de paso a la etapa 2 registrados; pendiente incorporar los aportes específicos de los grupos.
 
 - [Guía](GUIA.md).
 - [Referencias consultadas](referencias/README.md).
