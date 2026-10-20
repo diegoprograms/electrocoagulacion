@@ -13,4 +13,4 @@ Las plantillas son referencias para futuros registros. Los Excel compartidos de 
 
 ## Pendiente para la etapa de experimentación
 
-Por solicitud del docente (1 de octubre de 2026), al preparar la guía de experimentación se debe recordar la propuesta de **medir el caudal real y compararlo con el caudal calculado durante el diseño**. Retomar entonces su incorporación con el docente; no constituye una actividad adicional de la etapa 3.
+Por solicitud del docente (1 de octubre de 2026), al preparar la guía de experimentación se debe recordar la propuesta de **medir el caudal real y compararlo con el caudal calculado durante el diseño**. Con el cambio a pruebas por lotes acordado el 19 de octubre de 2026, este recordatorio queda aplazado: no aplica al montaje actual. Retomarlo solo si se vuelve a un diseño de flujo continuo.

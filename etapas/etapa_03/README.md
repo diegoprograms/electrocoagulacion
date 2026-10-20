@@ -1,8 +1,8 @@
-# Etapa 03 — Diseño y dimensionamiento del electrocoagulador de flujo continuo
+# Etapa 03 — Diseño y presupuesto del electrocoagulador por lotes
 
-A partir de los artículos de la etapa 2 y del trabajo iniciado en clase, cada grupo propone el voltaje, la separación y dimensiones de los electrodos y las condiciones de flujo del reactor.
+Actualización del 19 de octubre de 2026: se sustituye el flujo continuo por ensayos por lotes con aguas de lavadora. Se comparará la aparición de flóculos y el área visualmente clarificada de muestras asociadas a distintos detergentes.
 
-**Para la próxima clase deben llevar los cálculos realizados, el esquema dimensionado y un presupuesto de materiales cotizado en COP.** Consulten el procedimiento y los entregables en la guía.
+**Cada grupo presentará un diseño dimensionado y su presupuesto en COP**, priorizando materiales reutilizados o reciclables de procedencia y composición conocidas. En la experimentación se medirán voltaje y corriente y se calculará la resistencia aparente de la celda. Las propuestas aún están pendientes de entrega y comparación.
 
 - [Guía](GUIA.md).
 - [Referencias consultadas](referencias/README.md).
