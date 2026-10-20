@@ -64,7 +64,7 @@ Cotizar la propuesta completa, con cantidades derivadas del dibujo y de los cál
 Para cada alternativa o mejora, expliquen qué necesidad atiende, qué beneficio esperan, qué evidencia la respalda y cómo comprobarían su efecto. Justifiquen la compatibilidad de los materiales con el agua y actualicen el dibujo, las cantidades y el presupuesto cuando corresponda. Distingan una mejora propuesta de una mejora comprobada.
 
 | Componente | Material y especificación | Cantidad y unidad | Nuevo / reutilizado / prestado | Precio unitario COP | Subtotal COP | Fuente y fecha |
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | Recipiente | | | | | | |
 | Placas y corte | | | | | | |
 | Soportes y separadores | | | | | | |
