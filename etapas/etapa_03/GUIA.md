@@ -139,7 +139,28 @@ Graficar **corriente contra tiempo** y **resistencia aparente contra tiempo** pa
 
 Las instrucciones de conexión y medición deben contrastarse con el manual del instrumento disponible. Referencias: [medición de resistencia, Fluke](https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-measure-resistance) y [manual de multímetro, conexión en serie para corriente](https://assets.fluke.com/manuals/287_289_umeng0000.pdf).
 
-## 5. Cómo preparar una comparación interpretable de los detergentes
+## 5. Cómo se seleccionará o combinará el diseño colectivo
+
+**Primero cada grupo presenta su propuesta de diseño y presupuesto; no se requiere construir un electrocoagulador por grupo. Luego se selecciona o combina un diseño colectivo, se construye ese montaje y se realiza el ensayo piloto antes de comparar los detergentes.**
+
+Cada grupo entrega su propuesta completa; una IA puede ayudar a comparar las propuestas y explicar ventajas, incompatibilidades y datos faltantes. La selección se sustentará en esta matriz, no solo en el menor precio:
+
+| Criterio | Evidencia para comparar |
+|---|---|
+| Compatibilidad de materiales | Composición y procedencia, ausencia de recubrimientos desconocidos, limpieza |
+| Control eléctrico | Fuente y límite de corriente, conexiones e instrumentos adecuados |
+| Repetibilidad | Volumen y separación fijos, área sumergida definida, protocolo de limpieza |
+| Observación | Visibilidad, cámara fija y región de análisis reproducible |
+| Robustez | Estabilidad, ausencia de fugas, placas reemplazables y acceso para mantenimiento |
+| Costo y viabilidad | Cotización completa, disponibilidad, reutilización y tiempo de montaje |
+
+Los materiales desconocidos en contacto con el agua o una alimentación sin control adecuado deben corregirse antes de seleccionar una propuesta. Entre alternativas viables se justificará qué recipiente, soporte, electrodos, fuente y método de observación se toman de cada grupo, y se recalcularán dimensiones, corriente y costo del conjunto. Una combinación de piezas no es automáticamente compatible.
+
+La selección será **provisional hasta un ensayo piloto** que compruebe estabilidad, ausencia de fugas, corriente controlable y posibilidad de observar flóculos. No se declara un diseño «mejor» sin disponer de las propuestas y de evidencia de su funcionamiento.
+
+## 6. Cómo preparar una comparación interpretable de los detergentes
+
+Esta actividad se realizará con el montaje colectivo construido y revisado mediante el ensayo piloto del numeral 5.
 
 El objetivo es **comparar la respuesta a la electrocoagulación de las muestras asociadas a cada detergente**, bajo condiciones acordadas. No clasificar su calidad de lavado ni su impacto ambiental solo por el aspecto del agua.
 
@@ -164,23 +185,6 @@ $$f_{\mathrm{flóculos}}(t)=100\frac{A_{\mathrm{flóculos,imagen}}(t)}{A_{\mathr
 Pueden usar una cuadrícula sobre la imagen o un análisis digital con el mismo criterio verificable. Estas son **fracciones de área proyectada en una imagen**, no fracciones del volumen purificado ni porcentajes de remoción. No son necesariamente complementarias: puede haber zonas turbias, espuma u otras regiones sin clasificar. Conservar imágenes originales y máscaras o marcas de medición.
 
 Comparen tiempos de aparición y fracciones de área a tiempos comunes, incluyendo una imagen inicial y otra después de un reposo común. Mayor área de flóculos no equivale automáticamente a mejor tratamiento; la sedimentación y la flotación pueden reducir o desplazar esa área. No conviertan estos indicadores en una clasificación única sin explicar el criterio.
-
-## 6. Cómo se seleccionará o combinará el diseño colectivo
-
-Cada grupo entrega su propuesta completa; una IA puede ayudar a comparar las propuestas y explicar ventajas, incompatibilidades y datos faltantes. La selección se sustentará en esta matriz, no solo en el menor precio:
-
-| Criterio | Evidencia para comparar |
-|---|---|
-| Compatibilidad de materiales | Composición y procedencia, ausencia de recubrimientos desconocidos, limpieza |
-| Control eléctrico | Fuente y límite de corriente, conexiones e instrumentos adecuados |
-| Repetibilidad | Volumen y separación fijos, área sumergida definida, protocolo de limpieza |
-| Observación | Visibilidad, cámara fija y región de análisis reproducible |
-| Robustez | Estabilidad, ausencia de fugas, placas reemplazables y acceso para mantenimiento |
-| Costo y viabilidad | Cotización completa, disponibilidad, reutilización y tiempo de montaje |
-
-Los materiales desconocidos en contacto con el agua o una alimentación sin control adecuado deben corregirse antes de seleccionar una propuesta. Entre alternativas viables se justificará qué recipiente, soporte, electrodos, fuente y método de observación se toman de cada grupo, y se recalcularán dimensiones, corriente y costo del conjunto. Una combinación de piezas no es automáticamente compatible.
-
-La selección será **provisional hasta un ensayo piloto** que compruebe estabilidad, ausencia de fugas, corriente controlable y posibilidad de observar flóculos. No se declara un diseño «mejor» sin disponer de las propuestas y de evidencia de su funcionamiento.
 
 ## 7. Condiciones para las pruebas
 
